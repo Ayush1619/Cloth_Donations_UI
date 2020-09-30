@@ -6,7 +6,7 @@ I have made design and UI for our app "Clothic".I have design following pages:
 Login, Register, Home, Active donations, and Profile.
 
 
-Screenshot
+Screenshots
 
 
 ![login_clothic](https://user-images.githubusercontent.com/51109416/92609494-41d9c200-f2d4-11ea-9c79-44b174e74997.png)
