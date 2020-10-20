@@ -6,7 +6,7 @@ I have made UI/UX for our app "Clothic" by using Adobe XD and Figma.I have desig
 Login, Register, Home, Active donations, and Profile,Chat history,Chat window.
 
 
-Screenshots
+## Screenshots
 
 
 ![login_clothic](https://user-images.githubusercontent.com/51109416/92609494-41d9c200-f2d4-11ea-9c79-44b174e74997.png)
