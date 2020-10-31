@@ -4,7 +4,7 @@ We are designing this Mobile app for donating unwanted old clothes. To use the a
 ## My role in this project:
 I have made UI/UX for our app "Clothic" by using Adobe XD and Figma.I have design the following pages:
 Login, Register, Home, Active donations, and Profile,Chat history,Chat window.
-User interface
+User interface design
 
 
 ## Screenshots
