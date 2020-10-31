@@ -5,7 +5,7 @@ We are designing this Mobile app for donating unwanted old clothes. To use the a
 I have made UI/UX for our app "Clothic" by using Adobe XD and Figma.I have design the following pages:
 Login, Register, Home, Active donations, and Profile,Chat history,Chat window.
 User interface design or user interface engineering is the of user interfaces for machines and software, such as computers,home appliances,mobile devices,and other  electronic
-devices,with the focus on  maximizing
+devices,with the focus on maximizing usability
 
 
 ## Screenshots
